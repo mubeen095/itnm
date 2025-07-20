@@ -11,7 +11,7 @@ const ProgramHeader = ({ data }) => {
     setTimeout(() => {
       const a = document.createElement("a");
       a.href =
-        "https://superprofile.bio/vp/677919fba2d7d300131d8b0f";
+        "https://superprofile.bio/vp/Ub7NsG6C";
       a.target = "_blank";
       a.click();
       setCliecked(false);
